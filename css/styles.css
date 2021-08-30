@@ -1,0 +1,30 @@
+body{
+  
+}
+
+.yhteystiedot{
+    padding-top: 14%; 
+}
+
+
+.kuva{
+    max-width: 100%;
+    width: 13em;
+    height: auto;
+}
+
+.somet{
+    display: inline;
+}
+.kuvat{
+    max-width: 20%;
+    width: 3em;
+    height: auto;
+}
+
+
+.navbar{
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
